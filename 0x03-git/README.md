@@ -1,1 +1,1 @@
-read me of Git directory
+read me of Git directory updated
